@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+## Array
+|  |
+| ------- |
+| [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
+## Union-Find
+|  |
+| ------- |
+| [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
+## Matrix
+|  |
+| ------- |
+| [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 <!---LeetCode Topics End-->
