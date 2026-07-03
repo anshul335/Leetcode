@@ -28,16 +28,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Array
 |  |
 | ------- |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anshul335/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Queue
 |  |
 | ------- |
@@ -66,8 +70,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
