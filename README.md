@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
@@ -104,9 +105,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
