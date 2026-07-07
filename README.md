@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
+| [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Theory
