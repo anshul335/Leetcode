@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anshul335/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/anshul335/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,5 +175,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
