@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/anshul335/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshul335/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
