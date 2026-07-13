@@ -196,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/anshul335/Leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/anshul335/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
