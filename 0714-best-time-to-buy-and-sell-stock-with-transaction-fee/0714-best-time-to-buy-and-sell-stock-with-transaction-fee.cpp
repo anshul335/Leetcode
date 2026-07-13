@@ -18,20 +18,22 @@ public:
         // memset(dp,-1,sizeof(dp));
         // return solve (prices,fee, 0,1);
         int n = prices.size();
-        vector<vector<int>> dp (n+1,vector<int>(2,0));
+        vector<int>last(2,0);
         for (int ind = n-1 ;ind>=0 ;ind--){
+            vector <int>curr (2,0);
             for (int buy = 0;buy<=1;buy++){
                 int Buy = INT_MIN;
                 int sell = INT_MIN;
                 if (buy == 1){
-                    Buy = -prices[ind] + dp[ind+1][0];
+                    Buy = -prices[ind] + last[0];
                 }
                 else {
-                    sell = prices[ind] - fee + dp[ind+1][1];
+                    sell = prices[ind] - fee + last[1];
                 }
-                dp[ind][buy] = max({sell,Buy, dp[ind+1][buy]});
+                curr[buy] = max({sell,Buy, last[buy]});
             }
+            last = curr;
         }
-        return dp[0][1];
+        return last[1];
     }
 };
