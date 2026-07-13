@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/anshul335/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/anshul335/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshul335/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anshul335/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anshul335/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshul335/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 ## Bitmask
 |  |
