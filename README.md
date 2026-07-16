@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
+| [0894-all-possible-full-binary-trees](https://github.com/anshul335/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anshul335/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anshul335/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/anshul335/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshul335/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/anshul335/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/anshul335/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshul335/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/anshul335/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
+| [0894-all-possible-full-binary-trees](https://github.com/anshul335/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1387-sort-integers-by-the-power-value](https://github.com/anshul335/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## Minimum Spanning Tree
 |  |
@@ -272,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/anshul335/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
