@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshul335/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/anshul335/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anshul335/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/anshul335/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,8 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anshul335/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
