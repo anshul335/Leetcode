@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1630-arithmetic-subarrays](https://github.com/anshul335/Leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1797-design-authentication-manager](https://github.com/anshul335/Leetcode/tree/master/1797-design-authentication-manager) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/anshul335/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -296,4 +297,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/anshul335/Leetcode/tree/master/1797-design-authentication-manager) |
+## Design
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/anshul335/Leetcode/tree/master/1797-design-authentication-manager) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1797-design-authentication-manager](https://github.com/anshul335/Leetcode/tree/master/1797-design-authentication-manager) |
 <!---LeetCode Topics End-->
