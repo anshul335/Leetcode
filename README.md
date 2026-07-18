@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [1192-critical-connections-in-a-network](https://github.com/anshul335/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [1192-critical-connections-in-a-network](https://github.com/anshul335/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anshul335/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Array
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
+| [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anshul335/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
