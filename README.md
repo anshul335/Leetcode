@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/anshul335/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1462-course-schedule-iv](https://github.com/anshul335/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anshul335/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshul335/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1462-course-schedule-iv](https://github.com/anshul335/Leetcode/tree/master/1462-course-schedule-iv) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anshul335/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshul335/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshul335/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anshul335/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshul335/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/anshul335/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshul335/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anshul335/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Array
