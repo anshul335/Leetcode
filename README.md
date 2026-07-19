@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/anshul335/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anshul335/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/anshul335/Leetcode/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/anshul335/Leetcode/tree/master/1164-product-price-at-a-given-date) |
