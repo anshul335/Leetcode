@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
+| [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anshul335/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
+| [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [0894-all-possible-full-binary-trees](https://github.com/anshul335/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anshul335/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -289,12 +293,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 ## Bitmask
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 ## Geometry
 |  |
 | ------- |
