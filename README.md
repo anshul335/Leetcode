@@ -342,5 +342,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anshul335/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1174-immediate-food-delivery-ii](https://github.com/anshul335/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1934-confirmation-rate](https://github.com/anshul335/Leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
