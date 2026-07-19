@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anshul335/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1075-project-employees-i](https://github.com/anshul335/Leetcode/tree/master/1075-project-employees-i) |
+| [1164-product-price-at-a-given-date](https://github.com/anshul335/Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/anshul335/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/anshul335/Leetcode/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/anshul335/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
