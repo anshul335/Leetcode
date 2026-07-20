@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
+| [0802-find-eventual-safe-states](https://github.com/anshul335/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1192-critical-connections-in-a-network](https://github.com/anshul335/Leetcode/tree/master/1192-critical-connections-in-a-network) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
+| [0802-find-eventual-safe-states](https://github.com/anshul335/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/anshul335/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [1192-critical-connections-in-a-network](https://github.com/anshul335/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anshul335/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/anshul335/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/anshul335/Leetcode/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshul335/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
