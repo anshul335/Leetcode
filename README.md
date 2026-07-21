@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anshul335/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2785-sort-vowels-in-a-string](https://github.com/anshul335/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anshul335/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshul335/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/anshul335/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anshul335/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
