@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/anshul335/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anshul335/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2785-sort-vowels-in-a-string](https://github.com/anshul335/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anshul335/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/anshul335/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshul335/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/anshul335/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2140-solving-questions-with-brainpower](https://github.com/anshul335/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/anshul335/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
@@ -325,11 +328,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/anshul335/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Bitmask
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/anshul335/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Geometry
 |  |
 | ------- |
