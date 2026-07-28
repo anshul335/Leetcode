@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshul335/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/anshul335/Leetcode/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshul335/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0498-diagonal-traverse](https://github.com/anshul335/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/anshul335/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/anshul335/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/anshul335/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1260-shift-2d-grid](https://github.com/anshul335/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anshul335/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
