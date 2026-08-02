@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/anshul335/Leetcode/tree/master/0065-valid-number) |
+| [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0537-complex-number-multiplication](https://github.com/anshul335/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0583-delete-operation-for-two-strings](https://github.com/anshul335/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0802-find-eventual-safe-states](https://github.com/anshul335/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0802-find-eventual-safe-states](https://github.com/anshul335/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0802-find-eventual-safe-states](https://github.com/anshul335/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/anshul335/Leetcode/tree/master/0851-loud-and-rich) |
 | [1192-critical-connections-in-a-network](https://github.com/anshul335/Leetcode/tree/master/1192-critical-connections-in-a-network) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anshul335/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/anshul335/Leetcode/tree/master/0260-single-number-iii) |
 | [0312-burst-balloons](https://github.com/anshul335/Leetcode/tree/master/0312-burst-balloons) |
+| [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0447-number-of-boomerangs](https://github.com/anshul335/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anshul335/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/anshul335/Leetcode/tree/master/0454-4sum-ii) |
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -230,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anshul335/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshul335/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
