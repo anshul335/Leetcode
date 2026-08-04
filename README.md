@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshul335/Leetcode/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/anshul335/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0447-number-of-boomerangs](https://github.com/anshul335/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/anshul335/Leetcode/tree/master/0454-4sum-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anshul335/Leetcode/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/anshul335/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshul335/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/anshul335/Leetcode/tree/master/0238-product-of-array-except-self) |
