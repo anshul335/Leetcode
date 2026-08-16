@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anshul335/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshul335/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anshul335/Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2360-longest-cycle-in-a-graph](https://github.com/anshul335/Leetcode/tree/master/2360-longest-cycle-in-a-graph) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/anshul335/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anshul335/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anshul335/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anshul335/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/anshul335/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/anshul335/Leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anshul335/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anshul335/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Monotonic Queue
 |  |
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anshul335/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/anshul335/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
