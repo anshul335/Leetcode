@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0312-burst-balloons](https://github.com/anshul335/Leetcode/tree/master/0312-burst-balloons) |
 | [0583-delete-operation-for-two-strings](https://github.com/anshul335/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/anshul335/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshul335/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/anshul335/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anshul335/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -509,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/anshul335/Leetcode/tree/master/0881-boats-to-save-people) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
