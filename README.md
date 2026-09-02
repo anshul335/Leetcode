@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshul335/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anshul335/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/anshul335/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshul335/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anshul335/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
