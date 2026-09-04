@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anshul335/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anshul335/Leetcode/tree/master/0100-same-tree) |
 | [0365-water-and-jug-problem](https://github.com/anshul335/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anshul335/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/anshul335/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anshul335/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/anshul335/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0687-longest-univalue-path](https://github.com/anshul335/Leetcode/tree/master/0687-longest-univalue-path) |
