@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/anshul335/Leetcode/tree/master/0648-replace-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anshul335/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anshul335/Leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshul335/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/anshul335/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshul335/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anshul335/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
