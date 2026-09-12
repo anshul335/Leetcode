@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anshul335/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/anshul335/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshul335/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/anshul335/Leetcode/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/anshul335/Leetcode/tree/master/0065-valid-number) |
 | [0179-largest-number](https://github.com/anshul335/Leetcode/tree/master/0179-largest-number) |
 | [0399-evaluate-division](https://github.com/anshul335/Leetcode/tree/master/0399-evaluate-division) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anshul335/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/anshul335/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshul335/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -604,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshul335/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anshul335/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
