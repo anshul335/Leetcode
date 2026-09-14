@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshul335/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0537-complex-number-multiplication](https://github.com/anshul335/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
+| [0836-rectangle-overlap](https://github.com/anshul335/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anshul335/Leetcode/tree/master/1406-stone-game-iii) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/anshul335/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0836-rectangle-overlap](https://github.com/anshul335/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Simulation
 |  |
