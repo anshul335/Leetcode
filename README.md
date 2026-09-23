@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anshul335/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshul335/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshul335/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/anshul335/Leetcode/tree/master/0053-maximum-subarray) |
 | [0149-max-points-on-a-line](https://github.com/anshul335/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshul335/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/anshul335/Leetcode/tree/master/0179-largest-number) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshul335/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/anshul335/Leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anshul335/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0312-burst-balloons](https://github.com/anshul335/Leetcode/tree/master/0312-burst-balloons) |
 | [0583-delete-operation-for-two-strings](https://github.com/anshul335/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/anshul335/Leetcode/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/anshul335/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |
