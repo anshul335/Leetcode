@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/anshul335/Leetcode/tree/master/0791-custom-sort-string) |
 | [0839-similar-string-groups](https://github.com/anshul335/Leetcode/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
+| [0856-score-of-parentheses](https://github.com/anshul335/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/anshul335/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/anshul335/Leetcode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anshul335/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/anshul335/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/anshul335/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshul335/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/anshul335/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshul335/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anshul335/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/anshul335/Leetcode/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshul335/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
