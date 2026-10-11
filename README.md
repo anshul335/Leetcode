@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anshul335/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/anshul335/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshul335/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anshul335/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/anshul335/Leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/anshul335/Leetcode/tree/master/1291-sequential-digits) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/anshul335/Leetcode/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshul335/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anshul335/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
