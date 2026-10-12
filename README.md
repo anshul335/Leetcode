@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2421-number-of-good-paths](https://github.com/anshul335/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/anshul335/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshul335/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshul335/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/anshul335/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/anshul335/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshul335/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshul335/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anshul335/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/anshul335/Leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anshul335/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1642-furthest-building-you-can-reach](https://github.com/anshul335/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshul335/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshul335/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/anshul335/Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshul335/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshul335/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bitmask
 |  |
