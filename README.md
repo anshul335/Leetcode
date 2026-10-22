@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/anshul335/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anshul335/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1630-arithmetic-subarrays](https://github.com/anshul335/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1642-furthest-building-you-can-reach](https://github.com/anshul335/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anshul335/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [1854-maximum-population-year](https://github.com/anshul335/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/anshul335/Leetcode/tree/master/1943-describe-the-painting) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/anshul335/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1387-sort-integers-by-the-power-value](https://github.com/anshul335/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anshul335/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1630-arithmetic-subarrays](https://github.com/anshul335/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1943-describe-the-painting](https://github.com/anshul335/Leetcode/tree/master/1943-describe-the-painting) |
 | [2421-number-of-good-paths](https://github.com/anshul335/Leetcode/tree/master/2421-number-of-good-paths) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/anshul335/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anshul335/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/anshul335/Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1642-furthest-building-you-can-reach](https://github.com/anshul335/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshul335/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshul335/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
