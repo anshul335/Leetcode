@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anshul335/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anshul335/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/anshul335/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/anshul335/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/anshul335/Leetcode/tree/master/0621-task-scheduler) |
+| [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1642-furthest-building-you-can-reach](https://github.com/anshul335/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/anshul335/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anshul335/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshul335/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/anshul335/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1829-maximum-xor-for-each-query](https://github.com/anshul335/Leetcode/tree/master/1829-maximum-xor-for-each-query) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/anshul335/Leetcode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/anshul335/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anshul335/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/anshul335/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1387-sort-integers-by-the-power-value](https://github.com/anshul335/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/anshul335/Leetcode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/anshul335/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/anshul335/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0946-validate-stack-sequences](https://github.com/anshul335/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/anshul335/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anshul335/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anshul335/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
