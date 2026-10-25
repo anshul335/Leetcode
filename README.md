@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/anshul335/Leetcode/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/anshul335/Leetcode/tree/master/1943-describe-the-painting) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anshul335/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/anshul335/Leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2140-solving-questions-with-brainpower](https://github.com/anshul335/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anshul335/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/anshul335/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/anshul335/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anshul335/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/anshul335/Leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshul335/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/anshul335/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/anshul335/Leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -745,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/anshul335/Leetcode/tree/master/0731-my-calendar-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/anshul335/Leetcode/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 <!---LeetCode Topics End-->
