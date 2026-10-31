@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/anshul335/Leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/anshul335/Leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshul335/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/anshul335/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshul335/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anshul335/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anshul335/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/anshul335/Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/anshul335/Leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshul335/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/anshul335/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshul335/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/anshul335/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/anshul335/Leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3620-network-recovery-pathways](https://github.com/anshul335/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/anshul335/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Queue
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/anshul335/Leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/anshul335/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/anshul335/Leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/anshul335/Leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
