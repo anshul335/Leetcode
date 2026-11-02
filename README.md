@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshul335/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshul335/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anshul335/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3024-type-of-triangle](https://github.com/anshul335/Leetcode/tree/master/3024-type-of-triangle) |
 | [3040-maximum-number-of-operations-with-the-same-score-ii](https://github.com/anshul335/Leetcode/tree/master/3040-maximum-number-of-operations-with-the-same-score-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/anshul335/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/anshul335/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [3024-type-of-triangle](https://github.com/anshul335/Leetcode/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/anshul335/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-number-of-good-paths](https://github.com/anshul335/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/anshul335/Leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/anshul335/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
+| [3024-type-of-triangle](https://github.com/anshul335/Leetcode/tree/master/3024-type-of-triangle) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshul335/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -785,4 +788,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1035-uncrossed-lines](https://github.com/anshul335/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/anshul335/Leetcode/tree/master/1092-shortest-common-supersequence) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/anshul335/Leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
