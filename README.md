@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/anshul335/Leetcode/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1518-water-bottles](https://github.com/anshul335/Leetcode/tree/master/1518-water-bottles) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/anshul335/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/anshul335/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/anshul335/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/anshul335/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1518-water-bottles](https://github.com/anshul335/Leetcode/tree/master/1518-water-bottles) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anshul335/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/anshul335/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshul335/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
