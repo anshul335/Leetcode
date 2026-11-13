@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshul335/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshul335/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshul335/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3366-minimum-array-sum](https://github.com/anshul335/Leetcode/tree/master/3366-minimum-array-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshul335/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/anshul335/Leetcode/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshul335/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/anshul335/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/anshul335/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anshul335/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshul335/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/anshul335/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anshul335/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshul335/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshul335/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -395,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshul335/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -711,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/anshul335/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0731-my-calendar-ii](https://github.com/anshul335/Leetcode/tree/master/0731-my-calendar-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anshul335/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshul335/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/anshul335/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Minimax
