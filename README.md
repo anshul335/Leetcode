@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0731-my-calendar-ii](https://github.com/anshul335/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/anshul335/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/anshul335/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/anshul335/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/anshul335/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/anshul335/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshul335/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/anshul335/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/anshul335/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/anshul335/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anshul335/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anshul335/Leetcode/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anshul335/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/anshul335/Leetcode/tree/master/0621-task-scheduler) |
+| [0769-max-chunks-to-make-sorted](https://github.com/anshul335/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/anshul335/Leetcode/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/anshul335/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/anshul335/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anshul335/Leetcode/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/anshul335/Leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0769-max-chunks-to-make-sorted](https://github.com/anshul335/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/anshul335/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anshul335/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshul335/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
