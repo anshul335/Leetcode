@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [0890-find-and-replace-pattern](https://github.com/anshul335/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anshul335/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anshul335/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anshul335/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anshul335/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/anshul335/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0959-regions-cut-by-slashes](https://github.com/anshul335/Leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anshul335/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1035-uncrossed-lines](https://github.com/anshul335/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/anshul335/Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/anshul335/Leetcode/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anshul335/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anshul335/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/anshul335/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/anshul335/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1094-car-pooling](https://github.com/anshul335/Leetcode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/anshul335/Leetcode/tree/master/1140-stone-game-ii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
