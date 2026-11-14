@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/anshul335/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshul335/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/anshul335/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/anshul335/Leetcode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2421-number-of-good-paths](https://github.com/anshul335/Leetcode/tree/master/2421-number-of-good-paths) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshul335/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/anshul335/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1799-maximize-score-after-n-operations](https://github.com/anshul335/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/anshul335/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/anshul335/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3024-type-of-triangle](https://github.com/anshul335/Leetcode/tree/master/3024-type-of-triangle) |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshul335/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshul335/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
