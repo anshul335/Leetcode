@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anshul335/Leetcode/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/anshul335/Leetcode/tree/master/0648-replace-words) |
 | [0791-custom-sort-string](https://github.com/anshul335/Leetcode/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/anshul335/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0839-similar-string-groups](https://github.com/anshul335/Leetcode/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/anshul335/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0648-replace-words](https://github.com/anshul335/Leetcode/tree/master/0648-replace-words) |
 | [0791-custom-sort-string](https://github.com/anshul335/Leetcode/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/anshul335/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/anshul335/Leetcode/tree/master/0839-similar-string-groups) |
 | [0854-k-similar-strings](https://github.com/anshul335/Leetcode/tree/master/0854-k-similar-strings) |
 | [0856-score-of-parentheses](https://github.com/anshul335/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anshul335/Leetcode/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/anshul335/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
+| [0792-number-of-matching-subsequences](https://github.com/anshul335/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0803-bricks-falling-when-hit](https://github.com/anshul335/Leetcode/tree/master/0803-bricks-falling-when-hit) |
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0839-similar-string-groups](https://github.com/anshul335/Leetcode/tree/master/0839-similar-string-groups) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anshul335/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0773-sliding-puzzle](https://github.com/anshul335/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/anshul335/Leetcode/tree/master/0790-domino-and-tromino-tiling) |
+| [0792-number-of-matching-subsequences](https://github.com/anshul335/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/anshul335/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [0894-all-possible-full-binary-trees](https://github.com/anshul335/Leetcode/tree/master/0894-all-possible-full-binary-trees) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anshul335/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/anshul335/Leetcode/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/anshul335/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/anshul335/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0887-super-egg-drop](https://github.com/anshul335/Leetcode/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/anshul335/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anshul335/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -543,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/anshul335/Leetcode/tree/master/0621-task-scheduler) |
 | [0769-max-chunks-to-make-sorted](https://github.com/anshul335/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/anshul335/Leetcode/tree/master/0791-custom-sort-string) |
+| [0792-number-of-matching-subsequences](https://github.com/anshul335/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0881-boats-to-save-people](https://github.com/anshul335/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/anshul335/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/anshul335/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -753,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/anshul335/Leetcode/tree/master/0648-replace-words) |
+| [0792-number-of-matching-subsequences](https://github.com/anshul335/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Timsort
 |  |
 | ------- |
