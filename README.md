@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anshul335/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/anshul335/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1463-cherry-pickup-ii](https://github.com/anshul335/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshul335/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/anshul335/Leetcode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1584-min-cost-to-connect-all-points](https://github.com/anshul335/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/anshul335/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/anshul335/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/anshul335/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1463-cherry-pickup-ii](https://github.com/anshul335/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [2258-escape-the-spreading-fire](https://github.com/anshul335/Leetcode/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshul335/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/anshul335/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1416-restore-the-array](https://github.com/anshul335/Leetcode/tree/master/1416-restore-the-array) |
 | [1425-constrained-subsequence-sum](https://github.com/anshul335/Leetcode/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/anshul335/Leetcode/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1463-cherry-pickup-ii](https://github.com/anshul335/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshul335/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/anshul335/Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1799-maximize-score-after-n-operations](https://github.com/anshul335/Leetcode/tree/master/1799-maximize-score-after-n-operations) |
